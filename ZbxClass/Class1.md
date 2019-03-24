@@ -20,3 +20,5 @@ Zabbix é uma ferramenta capaz de monitorar diversos componentes na área de TI,
 O Zabbix é uma ferramenta que proporciona um monitoramento com alta disponibilidade, além de ser capaz de monitorar um número realmente grande de dispotivos, serviços e operações, quando bem dimensionado.
 É possível realizar a descoberta de hosts na rede, podendo assim automatizar e acelerar o processo de monitoramento em uma grande rede, assim como descobrir itens que não estavam disponíveis no momento do inicio do processo.
 Uma coisa uma muito importante principalmente em uma rede muito grande, digamos com elementos em lugares geograficamente distantes. Por isso o Zabbix é capaz de agir decentralizadamente, porém mantendo a gerencia de um ponto para facilitar todo o processo de operação.
+
+##### Alertas e Ações
