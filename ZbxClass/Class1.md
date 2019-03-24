@@ -22,3 +22,5 @@ O Zabbix é uma ferramenta que proporciona um monitoramento com alta disponibili
 Uma coisa uma muito importante principalmente em uma rede muito grande, digamos com elementos em lugares geograficamente distantes. Por isso o Zabbix é capaz de agir decentralizadamente, porém mantendo a gerencia de um ponto para facilitar todo o processo de operação.
 
 ##### Alertas e Ações
+
+Uma das partes mais importantes de um processo de monitoramento é a detecção de eventos e antecipação de potênciais problemas em uma rede. Nesse ponto o Zabbix entrega além de um interface altamente amigável e customizável para parametrizar os alertas de acordo com suas necessidades.
