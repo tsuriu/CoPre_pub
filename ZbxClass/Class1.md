@@ -24,3 +24,5 @@ Uma coisa uma muito importante principalmente em uma rede muito grande, digamos 
 ##### Alertas e Ações
 
 Uma das partes mais importantes de um processo de monitoramento é a detecção de eventos e antecipação de potênciais problemas em uma rede. Nesse ponto o Zabbix entrega além de um interface altamente amigável e customizável para parametrizar os alertas de acordo com suas necessidades.
+O Zabbix relaciona cada evento como programado a uma trigger (gatilho), o qual faz o zabbix exibir um alerta com criticidade também personalizável.
+
