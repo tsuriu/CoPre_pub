@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-TELEGRAM_BOT_TOKEN='873959136:AAFMtHNLJbaRAQcXKIn1dyUAvinBHkm9gcY'
+TELEGRAM_BOT_TOKEN=''
 DST=$1
 SBJ=$(echo $2 | sed "s/ /%20/g")
 MSG=$(echo $3 | sed "s/ /%20/g")
